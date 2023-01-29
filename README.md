@@ -1,4 +1,4 @@
-# IceCream
+# Mini Ice Cream Shop
 
 Interface:
 ![Image of colorful interface where you can place a custom ice cream order.](https://github.com/paper-clips/IceCream/blob/main/Application%20Images/i1.png?raw=true)
